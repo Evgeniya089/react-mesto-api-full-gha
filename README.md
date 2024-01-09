@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 51.250.73.87
+IP 51.250.73.87
 
 Frontend https://evgenia.nomoredomainsmonster.ru
 
